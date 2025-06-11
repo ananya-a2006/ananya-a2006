@@ -16,6 +16,14 @@
 - Advanced HTML/CSS
 - Basic Python 
 - LibreOffice & Google Slides for presentations
+
+- ## 🌟 Featured Project
+
+### 🎨 [Ananya Template](https://github.com/ananya-a2006/ananya-template)
+A personal Bootstrap-based website template designed using HTML and CSS.  
+Includes portfolio, resume, services, and contact sections — perfect for designers!
+
+
 - ## 📫 Connect with Me
 - 💌 Email: ananyapr787@gmail.com
 
