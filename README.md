@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Ananya!
 
-<!--
-**ananya-a2006/ananya-a2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m pursuing a B.Sc. in Computer Science with Analytics  
+🎨 I’m passionate about designing beautiful and clean interfaces using HTML and CSS  
+📌 I love working on creative projects, templates, and layouts
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- UI/UX Design
+- HTML & CSS-based Layouts
+- Creative Templates
+- Visual Design Tool(Canva– if you use them)
+
+
+## 🌱 Currently Learning
+- Advanced HTML/CSS
+- Basic Python 
+- LibreOffice & Google Slides for presentations
+- ## 📫 Connect with Me
+- 💌 Email: ananyapr787@gmail.com
+
+- Thanks for visiting 💖!
